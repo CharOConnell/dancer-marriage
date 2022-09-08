@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:100,200,300,400,500,600,700');
+
+* --------------------- Colours --------------------- */
+.bg-orange-tester {
+    background-color: #f89159;
+}
+
+.bg-green-tester {
+    background-color: #83cf79;
+}
+
+/* --------------------- Generic settings --------------------- */
+.uppercase {
+    text-transform: uppercase;
+}
+
+.text-center {
+    max-width: 100%;
+    padding: 0;
+    padding-left: 15px;
+}
+
+
+/* --------------------- Sidebar --------------------------------- */
